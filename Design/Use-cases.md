@@ -16,7 +16,7 @@ Tommi wants to start his workday knowing what he'll work on and roughly when, so
 - He knows roughly which feel most important, but hasn't estimated how long the new ones will take
 - The two new tasks: "write architecture overview" (vague scope) and "review PR from teammate" (unknown size)
 - The 3 carried-over tasks: "send client proposal draft" (urgent), "update onboarding docs" (medium), "tidy project notes" (low)
-- Working day is 9:00–17:00; he plans to take a 30-minute lunch break around noon
+- Working day is 9:00–17:00; he plans to take a 60-minute lunch break around noon
 - He does NOT know how many of these tasks will realistically fit in one day
 - He has a vague memory of a meeting this afternoon but hasn't confirmed the time
 
